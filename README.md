@@ -35,6 +35,7 @@ The app allows users to:
 
 ## File Structure
 
+```
 courier-price-prediction/
 ├── app.py                     # FastAPI application with endpoints
 ├── schema.py                  # Pydantic models for input/output validation
@@ -42,7 +43,7 @@ courier-price-prediction/
 ├── requirements.txt           # Python dependencies
 ├── Dockerfile                 # Docker configuration file
 └── __pycache__/               # Python cache files (ignored in Docker)
-
+```
 
 ---
 
